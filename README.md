@@ -375,4 +375,3 @@ For issues or questions:
 3. Review thermal thresholds in main_application.h
 4. Consult Renesas RA4W1 datasheet for specifications
 5. Test with oscilloscope on PWM pin
->>>>>>> 265dc9d (Initial commit)
