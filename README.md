@@ -1,5 +1,3 @@
-# Renesas_bgk_ra6e2
-
 ## Introduction
 This repository contains the code and resources for the Renesas BGK RA6E2 project. The focus is on building efficient and scalable solutions using Renesas microcontrollers.
 
